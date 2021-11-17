@@ -1,4 +1,6 @@
 Nombre: Angel Javier 
 Apellidos: Herrada Zamora
+Lenguajes: java, python, html
+Gestores Base de Datos: SQL, MariaDB, Access
 
 
