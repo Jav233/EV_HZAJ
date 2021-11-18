@@ -1,4 +1,10 @@
 Apellidos: Herrada Zamora
+<<<<<<< HEAD
+Lenguajes: java, python, html
+Gestores Base de Datos: SQL, MariaDB, Access
+
+=======
 Nombre: Angel Javier 
 Celular: 0981397564
+>>>>>>> develop
 
